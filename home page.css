@@ -1,0 +1,47 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.bg{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.6;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    font-size: 3.8rem;
+    color: #511212;
+    padding: 88px 35px;
+}
+.heading{
+    border: 6px solid rgb(31, 30, 30);
+}
+
+.para{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5rem;
+    z-index: -1;
+}
+
+.link{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    color: blue;
+    font-size: 1.5rem;
+    margin: 34px 34px;
+    padding: 34px 34px;
+}
+a:hover{
+    color: red;
+    
+}
+
