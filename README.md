@@ -16,10 +16,10 @@ The whole backend is coded in core PHP and MySql.
 * Can print the ticket with all passenger and bus details already set.
 * There are two databases, one for user details and one for bus details.
 
-## Tech Stack
-* Php
-* Mysql
-* Javascript
+## Tech Stacks
+* PHP
+* MySQL
+* JavaScript
   
 ## Setup the Project
 * Upload online_bus to a directory.
