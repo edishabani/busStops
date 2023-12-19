@@ -1,7 +1,7 @@
 
-# busStack - your modern day solution bus travels and more online!
+# busStop - your modern day solution bus travels and more online!
 
-Book Bus Travels, AC Bus & Bus Hire
+Book Bus Travels and more...
 
 An online bus ticket booking system with a login system, validated 
 payment form and ticket pdf print. 
