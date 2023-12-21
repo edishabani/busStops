@@ -19,7 +19,7 @@ The whole backend is coded in core PHP and MySql.
 ## Tech Stacks
 * PHP
 * MySQL
-* JavaScript
+* HTML/CSS/JavaScript
   
 ## Setup the Project
 * Upload online_bus to a directory.
