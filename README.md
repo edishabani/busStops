@@ -1,5 +1,5 @@
 
-# busStop - your modern day solution bus travels and more online!
+# busStop - your modern day solution! Bus travels digitally.
 
 Book Bus Travels and more...
 
